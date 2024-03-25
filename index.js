@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = [𝕧𝕚𝕓𝕖 & 𝕔𝕙𝕚𝕝𝕝 "המנהלת היא דנה","השרת הכי טוב:"];
 
 
 let currentIndex = 0;
